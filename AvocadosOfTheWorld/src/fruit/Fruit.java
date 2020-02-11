@@ -10,6 +10,7 @@ package fruit;
  * @author nicomp
  *
  */
-public abstract class Fruit {
+public abstract class Fruit 
+{
 
 }

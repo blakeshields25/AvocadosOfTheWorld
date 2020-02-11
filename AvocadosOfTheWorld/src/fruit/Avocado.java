@@ -9,6 +9,7 @@ package fruit;
  * @author nicomp
  *
  */
-public class Avocado extends Fruit {
+public class Avocado extends Fruit 
+{
 
 }
